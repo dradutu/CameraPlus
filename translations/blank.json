@@ -1,10 +1,10 @@
 {
   "titles": {
     "100": "100",
-    "enter-a-room-name-to-quick-join": "Enter a room name to quick join",
-    "join-room": "Join room",
-    "enter-the-url-to-load": "Enter the URL to load",
-    "load-url": "Load URL",
+    "enter-a-room-name-to-quick-join": "Scrie numele întâlnirii pentru acces rapid",
+    "join-room": "Intră în întâlnire",
+    "enter-the-url-to-load": "Scrie adresa pentru încărcare",
+    "load-url": "Încarcă adresa",
     "number-of-outbound-connections": "Number of outbound connections",
     "number-of-outbound-audio-streams": "Number of outbound audio streams",
     "number-of-outbound-video-streams": "Number of outbound video streams",
